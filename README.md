@@ -1,7 +1,3 @@
-# LiterAlura
-
-### 📖 Descrição
-
 LiterAlura é uma aplicação de console desenvolvida em Java com Spring Boot que interage com a API **Gutendex** para buscar informações sobre livros e autores. O projeto permite persistir os dados em um banco de dados PostgreSQL, oferecendo funcionalidades de busca, listagem e consulta avançada para enriquecer o catálogo de obras.
 
 ---
@@ -54,11 +50,3 @@ Para rodar a aplicação, siga os seguintes passos:
     * Abra o projeto em sua IDE (como IntelliJ ou VS Code).
     * Execute a classe principal `LiteraluraApplication.java`.
     * O menu da aplicação será exibido no console, e você poderá interagir com as funcionalidades.
-
----
-
-### 👤 Autor
-
-* **Seu Nome**
-* **GitHub:** [Link para seu GitHub](https://github.com/seu-usuario)
-* **LinkedIn:** [Link para seu LinkedIn](https://linkedin.com/in/seu-perfil)
